@@ -6,6 +6,6 @@ function exampleWithChaining() {
 }
 
 exampleWithChaining();
-// returns:
+// results:
 // Hello
 // World

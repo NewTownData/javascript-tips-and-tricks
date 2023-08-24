@@ -8,6 +8,6 @@ function exampleWithCallback() {
 }
 
 exampleWithCallback();
-// returns:
+// results:
 // Hello
 // World

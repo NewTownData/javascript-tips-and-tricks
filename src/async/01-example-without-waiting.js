@@ -7,6 +7,6 @@ function exampleWithoutWaiting() {
 }
 
 exampleWithoutWaiting();
-// returns:
+// results:
 // World
 // Hello

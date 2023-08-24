@@ -7,6 +7,6 @@ async function exampleWithWaiting() {
 }
 
 exampleWithWaiting();
-// returns:
+// results:
 // Hello
 // World
